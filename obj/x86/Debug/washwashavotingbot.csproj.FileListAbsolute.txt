@@ -1,0 +1,34 @@
+E:\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.Form1.resources
+E:\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.Properties.Resources.resources
+E:\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.csproj.GenerateResource.Cache
+E:\washwashavotingbot\washwashavotingbot\bin\Debug\washwashavotingbot.exe
+E:\washwashavotingbot\washwashavotingbot\bin\Debug\washwashavotingbot.pdb
+E:\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.exe
+E:\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.pdb
+E:\washwashavotingbot\washwashavotingbot\bin\Debug\washwashavotingbot.exe.config
+E:\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.csprojResolveAssemblyReference.cache
+D:\All Projects\By Ajeet\washwashavotingbot\washwashavotingbot\bin\Debug\washwashavotingbot.exe.config
+D:\All Projects\By Ajeet\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.exe
+D:\All Projects\By Ajeet\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.pdb
+D:\All Projects\By Ajeet\washwashavotingbot\washwashavotingbot\bin\Debug\washwashavotingbot.exe
+D:\All Projects\By Ajeet\washwashavotingbot\washwashavotingbot\bin\Debug\washwashavotingbot.pdb
+D:\All Projects\By Ajeet\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.Form1.resources
+D:\All Projects\By Ajeet\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.Properties.Resources.resources
+D:\All Projects\By Ajeet\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.csproj.GenerateResource.Cache
+D:\Amit\washwashavotingbot\washwashavotingbot\bin\Debug\washwashavotingbot.exe.config
+D:\Amit\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.exe
+D:\Amit\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.pdb
+D:\Amit\washwashavotingbot\washwashavotingbot\bin\Debug\washwashavotingbot.exe
+D:\Amit\washwashavotingbot\washwashavotingbot\bin\Debug\washwashavotingbot.pdb
+D:\Amit\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.Form1.resources
+D:\Amit\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.Properties.Resources.resources
+D:\Amit\washwashavotingbot\washwashavotingbot\obj\x86\Debug\washwashavotingbot.csproj.GenerateResource.Cache
+D:\Amit\Gumtree Desktop\washwashavotingbot\bin\Debug\washwashavotingbot.exe.config
+D:\Amit\Gumtree Desktop\washwashavotingbot\obj\x86\Debug\washwashavotingbot.exe
+D:\Amit\Gumtree Desktop\washwashavotingbot\obj\x86\Debug\washwashavotingbot.pdb
+D:\Amit\Gumtree Desktop\washwashavotingbot\bin\Debug\washwashavotingbot.exe
+D:\Amit\Gumtree Desktop\washwashavotingbot\bin\Debug\washwashavotingbot.pdb
+D:\Amit\Gumtree Desktop\washwashavotingbot\obj\x86\Debug\washwashavotingbot.Form1.resources
+D:\Amit\Gumtree Desktop\washwashavotingbot\obj\x86\Debug\washwashavotingbot.Properties.Resources.resources
+D:\Amit\Gumtree Desktop\washwashavotingbot\obj\x86\Debug\washwashavotingbot.csproj.GenerateResource.Cache
+D:\Amit\Gumtree Desktop\washwashavotingbot\bin\Debug\GumTree.exe.config
